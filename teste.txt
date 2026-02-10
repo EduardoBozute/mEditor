@@ -1,0 +1,8 @@
+arquivo de teste
+feito para
+experimentar
+e 
+testar
+as funcoes do
+programa
+mEditor
